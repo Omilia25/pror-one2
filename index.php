@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- The above 4 meta tags come first in the head; any other head content must come *after* these tags -->
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
     <title>Pror-One | Home</title>
@@ -70,21 +70,15 @@
             <nav class="amado-nav">
                 <ul>
                     <li class="active"><a href="index.html">Home</a></li>
-<<<<<<< HEAD
                     <!-- <li><a href="shop.html">Shop</a></li> -->
-=======
->>>>>>> 4c6cdbe9f239efacf35c9ae656cce5c638fe32f6
                     <li><a href="roses-regular.html">Spray Rores Regular</a></li>
                     <li><a href="roses-garden.html">Spray Roses Garden</a></li>
                     <li><a href="roses-premium.html">Spray Roses Premium</a></li>
                     <li><a href="roses-standard.html">Roses Standard</a></li>
                     <li><a href="summer-flowers.html">Summer Flowers</a></li>
                     <li><a href="product-details.html">Product</a></li>
-<<<<<<< HEAD
                     <!-- <li><a href="cart.html">Cart</a></li>
                     <li><a href="checkout.html">Checkout</a></li> -->
-=======
->>>>>>> 4c6cdbe9f239efacf35c9ae656cce5c638fe32f6
                 </ul>
             </nav>
             <!-- Button Group -->
